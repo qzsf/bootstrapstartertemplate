@@ -1,0 +1,23 @@
+{
+    "name": "bootstrapstartertemplate",
+    "version": "1.0.0",
+    "description": "Bootstrap starter template with a developer environment using John Papa's lite-server.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\"",
+        "dev": "lite-server",
+        "start": "npm run dev"
+    },
+    "keywords": [
+        "Bootstrap",
+        "4"
+    ],
+    "author": "Qiang Z",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/infozhang/bootstrapstartertemplate"
+    },
+    "devDependencies": {
+        "lite-server": "^2.3.0"
+    }
+}
