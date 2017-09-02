@@ -1,5 +1,7 @@
 # Bootstrap Starter Template With Development Server
-## Create a new project based on this template
+## Create a New Project based on this template
 git clone https://github.com/infozhang/bootstrapstartertemplate.git
-## Run the template
+## Installation
+npm install
+## Run the App
 npm start
