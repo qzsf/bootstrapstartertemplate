@@ -7,7 +7,7 @@ SSA
 •	Participated in project meetings, with technical staff members, business analysts, and stakeholders across the agency.
 •	Served as a technical resource and mentor for other programmers and developers.
 Key Achievements:
-•	Designed and developed a highly expandable and feature-rich ticket request management system that transformed and streamlined our IT and other components’ customer service. It tracks and measures supports, and unifies how customers access and request supports.
+•	Designed and developed a web based, highly expandable and feature-rich ticket request management system that transformed and streamlined our IT and other components’ customer service. It tracks and measures supports, and unifies how customers access and request supports.
 •	Developed a cutting edge artificial intelligence / Machine Learning application using Python, Flask, and Natural Language Toolkit. The application categorizes text automatically. The accuracy is more than 86%. Also implemented neural network, face recognition, and deep learning applications.
 •	Developed an audit and survey system that decreased the travelling costs by 20%.
 
